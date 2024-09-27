@@ -66,7 +66,7 @@
  
   <hr>
   <footer>
-	<p>&copy; kunal chinche 27-09-2024</p>
+	<p>&copy; kunal_chinche.com 27-09-2024</p>
   </footer>
 </div>
  
