@@ -49,14 +49,14 @@
 	</div>
 	<div class="col-md-4">
 		<h2>Build Tool</h2>
-		<p>Maven</p>
+		<p>Maven1.8</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Webserver</h2>
-		<p>Tomcat</p>
+		<p>Tomcat-3</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
